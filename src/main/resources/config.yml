@@ -1,0 +1,11 @@
+Global:
+  enableFallDamage: false
+DoubleJump:
+  type: dash
+  power: 0.5
+  message: ""
+  particles: FLAME
+  particlesCount: 40
+  sound: ENTITY_GHAST_SHOOT
+  soundVolume: 70
+  soundPitch: 0

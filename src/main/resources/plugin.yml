@@ -1,0 +1,5 @@
+name: SimpleDoubleJump
+version: '1.0-SNAPSHOT'
+main: ru.absolute.simpleDoubleJump.SimpleDoubleJump
+api-version: '1.21'
+author: "Absolute"
