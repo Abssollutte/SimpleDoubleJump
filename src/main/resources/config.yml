@@ -2,6 +2,7 @@ Global:
   enableFallDamage: false
 DoubleJump:
   type: dash
+  # 3 types: dash, up, levitation
   power: 0.5
   message: ""
   particles: FLAME
